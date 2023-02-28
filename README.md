@@ -1,4 +1,4 @@
-<img src="./public/venti.jpg" alt="venti" width="32" height="32">
+<img src="./public/venti.jpg" alt="venti" width="128" height="128">
 
 ### Venti
 minimal project starter using  
