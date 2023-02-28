@@ -1,4 +1,4 @@
-![venti](./public/venti.jpg)
+<img src="./public/venti.jpg" alt="venti" width="32" height="32">
 
 ### Venti
 minimal project starter using  
