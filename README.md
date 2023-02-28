@@ -1,6 +1,7 @@
-<img src="./public/venti.jpg" alt="venti" width="128" height="128">
+# Venti
 
-### Venti
+<img src="./public/venti.jpg" alt="venti" width="256" height="256">
+
 minimal project starter using  
 vite svelte typescript windicss
 
