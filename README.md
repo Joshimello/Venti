@@ -1,4 +1,6 @@
-# Venti
+![venti](./public/venti.jpg)
+
+### Venti
 minimal project starter using  
 vite svelte typescript windicss
 
